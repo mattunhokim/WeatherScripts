@@ -1,4 +1,4 @@
-Scripts to check the weather.  
+Scripts using API to check the weather.  
 Python City.py  
 Python Houston.py  
 
